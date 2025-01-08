@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm [Your Name]!</h1>
+<h1 align="center">Hello 👋, I'm Hardik Kori!</h1>
 <!--
 <p align="center">
   <img src="https://user-images.githubusercontent.com/..." alt="profile-pic" width="150" height="150" style="border-radius: 50%;"/>
