@@ -1,8 +1,9 @@
 <h1 align="center">Hello 👋, I'm [Your Name]!</h1>
-
+<!--
 <p align="center">
   <img src="https://user-images.githubusercontent.com/..." alt="profile-pic" width="150" height="150" style="border-radius: 50%;"/>
 </p>
+-->
 
 ---
 
@@ -33,8 +34,8 @@
 
 <h3 align="center">📈 GitHub Analytics:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGitHubUsername]&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hk-gitshub&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hk-gitshub&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -58,6 +59,7 @@
 ---
 
 <h3 align="center">👨‍💻 Open Source Contributions:</h3>
+
 - 💻 Contributed to open-source libraries and frameworks.
 - 🚀 Actively maintain personal projects that help the developer community.
 - 🎉 Feel free to explore my repositories and suggest improvements!
