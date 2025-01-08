@@ -11,7 +11,9 @@
 
 - 🌟 **Passionate Frontend Developer** with expertise in creating stunning and functional web interfaces.
 - ⚡ Tech stack includes **HTML**, **CSS**, **JavaScript**, **React**, **Next.js**, and **TypeScript**.
+- 🛠️ Experienced with **Node.js** and **Express.js** for building scalable backend APIs and server-side applications.
 - 🛠️ Proficient in building responsive and user-friendly designs with **TailwindCSS**, **Shadcn UI**, **Material UI**, and **Sass**.
+- 🛡️ Strong understanding of **RESTful API design** and **full-stack development principles**.
 - 🎨 Obsessed with **UI/UX design principles** to deliver an exceptional user experience.
 - 💡 Always eager to learn about emerging technologies and trends in the frontend ecosystem.
 
@@ -24,6 +26,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
